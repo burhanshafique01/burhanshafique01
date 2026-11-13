@@ -2,8 +2,6 @@
 
 ###
 
-<a href="https://rankistan.dev">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2FMoeen999&style=for-the-badge" alt="Rankistan rank badge">
 </a>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
